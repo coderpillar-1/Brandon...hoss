@@ -1,0 +1,33 @@
+body{
+    background-color: rgb(53, 156, 216);
+    font-family: 'Monoton';
+    color: rgb(32, 91, 39);
+}
+ol{
+    font-size: 40px;
+    
+}
+li{
+ font-size: 30px;
+ font-family:inher ;   
+}
+h1{
+    font-size: 50px;
+}
+h2{
+font-size: 40px;
+}
+@font-face {
+    font-family:'Monoton' ;
+    src: url('./Monoton-Regular.ttf');
+}
+p{
+    font-size: 30px;
+    font-family:fantasy ;
+}
+nav{
+     
+ display: flex;justify-content: center;
+ justify-content:space-around;
+ font-size: 30px;
+}
