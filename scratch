@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Brandon's website</title>
+</head>
+<body>
+    <link rel="stylesheet" href="./style .css">
+ <nav>
+    <a href="./minecraft.html">Minecraft</a>
+    <a href="./index.html">home</a>
+    <a href="./grand.html">snake</a>
+    <a href="./aboutme.html">me</a>
+    <a href="./mom.html">Mom</a>
+    <a href="./quiz.html">Quiz</a>
+ </nav> 
+ <h3>This page is about a game I coded. Click to see <a href="https://scratch.mit.edu/projects/1202243033/">my game</a>.</h3>
+ <p>I went to camp on monday and did learnd what we were doing</p>
+</body>
+</html>
